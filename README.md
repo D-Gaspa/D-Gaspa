@@ -4,11 +4,11 @@ B.Sc. in Computer Systems Engineering at UDLAP (Mexico). Honors student research
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://gitroll.io/api/badges/profiles/v1/ucQk6y6y1ldRNWqNNMz0Rt52mdaP2" alt="GitRoll Profile Badge" width="500"/>
-</div>
+[//]: # (<div align="center">)
 
-</div>
+[//]: # (  <img src="https://gitroll.io/api/badges/profiles/v1/ucQk6y6y1ldRNWqNNMz0Rt52mdaP2" alt="GitRoll Profile Badge" width="500"/>)
+
+[//]: # (</div>)
 
 <div align="center">
 
@@ -18,6 +18,18 @@ B.Sc. in Computer Systems Engineering at UDLAP (Mexico). Honors student research
 </div>
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=D-Gaspa&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+|                                                                                                                                                                                          |                                                                                                                                                                                              |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|       <a href="https://github.com/d-gaspa/gingagame"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=gingagame&theme=gotham" /></a>       | <a href="https://github.com/d-gaspa/leetcodeexercises"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=leetcodeexercises&theme=gotham" /></a> |
+|     <a href="https://github.com/d-gaspa/root-finder"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=root-finder&theme=gotham" /></a>     |          <a href="https://github.com/d-gaspa/uni-park"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=uni-park&theme=gotham" /></a>          |
+| <a href="https://github.com/d-gaspa/battleship_game"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=battleship_game&theme=gotham" /></a> | <a href="https://github.com/d-gaspa/2danimationsystem"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=2danimationsystem&theme=gotham" /></a> |
+
+</div>
 
 ## 💻 Programming Languages
 
