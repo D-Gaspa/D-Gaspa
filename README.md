@@ -12,7 +12,7 @@ B.Sc. in Computer Systems Engineering at UDLAP (Mexico). Honors student research
 
 <div align="center">
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=D-Gaspa&show_icons=true&theme=gotham" alt="Diego's GitHub stats" /> | <img align="center" src="https://streak-stats.demolab.com?user=D-Gaspa&theme=gotham" alt="GitHub Streak" /> |
+| <img align="center" src="https://github-readme-stats-brown-ten-29.vercel.app/api?username=D-Gaspa&show_icons=true&theme=gotham" alt="Diego's GitHub stats" /> | <img align="center" src="https://streak-stats.demolab.com?user=D-Gaspa&theme=gotham" alt="GitHub Streak" /> |
 | ------------- | ------------- |
 
 </div>
@@ -25,9 +25,9 @@ B.Sc. in Computer Systems Engineering at UDLAP (Mexico). Honors student research
 
 |                                                                                                                                                                                          |                                                                                                                                                                                              |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|       <a href="https://github.com/d-gaspa/gingagame"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=gingagame&theme=gotham" /></a>       | <a href="https://github.com/d-gaspa/leetcodeexercises"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=leetcodeexercises&theme=gotham" /></a> |
-|     <a href="https://github.com/d-gaspa/root-finder"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=root-finder&theme=gotham" /></a>     |          <a href="https://github.com/d-gaspa/uni-park"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=uni-park&theme=gotham" /></a>          |
-| <a href="https://github.com/d-gaspa/battleship_game"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=battleship_game&theme=gotham" /></a> | <a href="https://github.com/d-gaspa/2danimationsystem"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d-gaspa&repo=2danimationsystem&theme=gotham" /></a> |
+|       <a href="https://github.com/d-gaspa/gingagame"><img align="center" src="https://github-readme-stats-brown-ten-29.vercel.app/api/pin/?username=d-gaspa&repo=gingagame&theme=gotham" /></a>       | <a href="https://github.com/d-gaspa/leetcodeexercises"><img align="center" src="https://github-readme-stats-brown-ten-29.vercel.app/api/pin/?username=d-gaspa&repo=leetcodeexercises&theme=gotham" /></a> |
+|     <a href="https://github.com/d-gaspa/root-finder"><img align="center" src="https://github-readme-stats-brown-ten-29.vercel.app/api/pin/?username=d-gaspa&repo=root-finder&theme=gotham" /></a>     |          <a href="https://github.com/d-gaspa/uni-park"><img align="center" src="https://github-readme-stats-brown-ten-29.vercel.app/api/pin/?username=d-gaspa&repo=uni-park&theme=gotham" /></a>          |
+| <a href="https://github.com/d-gaspa/battleship_game"><img align="center" src="https://github-readme-stats-brown-ten-29.vercel.app/api/pin/?username=d-gaspa&repo=battleship_game&theme=gotham" /></a> | <a href="https://github.com/d-gaspa/2danimationsystem"><img align="center" src="https://github-readme-stats-brown-ten-29.vercel.app/api/pin/?username=d-gaspa&repo=2danimationsystem&theme=gotham" /></a> |
 
 </div>
 
